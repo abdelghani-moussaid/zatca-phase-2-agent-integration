@@ -58,5 +58,5 @@ To avoid **400 Bad Request** errors and ensure your QR codes are legally valid p
 ---
 
 ## 🔗 Quick Links
-*   **[Enterprise Technical Brief (PDF)](https://drive.google.com/uc?export=download&id=11syt1NaoI5L6aSUFpdzq9otphrAuPhPy)**
+*   **[Enterprise Technical Brief (PDF)](https://abdelghani-moussaid.github.io/zatca-phase-2-agent-integration/ZatcaOracle_v2.0_Enterprise_Technical_Brief.pdf)**
 *   **[AI-Readable Specification (llms.txt)](https://abdelghani-moussaid.github.io/zatca-phase-2-agent-integration/llms.txt)**
